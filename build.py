@@ -88,6 +88,7 @@ def home():
     <li>Katydids &amp; crickets</li><li>Insect sperm</li><li>Plant–pollinator interactions</li><li>Urban wildlife</li>
   </ul>
 </section>
+<figure class="banner"><img src="img/cloud-forest.jpg" alt="Cloud forest at dawn, seen from a field station veranda" width="1847" height="425"></figure>
 <section class="news" aria-labelledby="news-h">
   <h2 id="news-h">Latest news</h2>
   <ol class="news-list">
@@ -101,7 +102,11 @@ def person(m, lead=False):
         links = '<p class="links">' + " · ".join(
             f'<a href="{html.escape(u)}">{html.escape(t)}</a>' for t, u in m["links"]) + "</p>"
     role = f'<p class="role">{html.escape(m["role"])}</p>' if m.get("role") else ""
-    return f"""<article class="person{' lead' if lead else ''}">
+    photo = ""
+    if m.get("photo"):
+        cap = f'<figcaption>{html.escape(m["caption"])}</figcaption>' if m.get("caption") else ""
+        photo = f'<figure class="portrait"><img src="img/{m["photo"]}" alt="{html.escape(m.get("caption") or m["name"])}" loading="lazy">{cap}</figure>'
+    return f"""<article class="person{' lead' if lead else ''}{' has-photo' if photo else ''}">{photo}
   <h3>{html.escape(m["name"])}</h3>{role}
   {paras(m["text"])}{links}
 </article>"""
@@ -112,7 +117,7 @@ def lab():
     return f"""<section>
   <h1>Lab members</h1>
   {person(pi, lead=True)}
-  <h2>Current students</h2>
+  <h2>Current members</h2>
   <div class="people">{''.join(person(m) for m in current)}</div>
   <details class="former">
     <summary>Former lab members ({len(members["former"])})</summary>
@@ -163,6 +168,8 @@ if __name__ == "__main__":
     out = ROOT / ("preview" if preview else "docs")
     out.mkdir(exist_ok=True)
     (out / "style.css").write_text((ROOT / "content/style.css").read_text())
+    import shutil
+    shutil.copytree(ROOT / "content/img", out / "img", dirs_exist_ok=True)
     for f, (t, fn) in PAGES.items():
         (out / f).write_text(page(f, t, fn(), full=not (preview and f == "index.html")))
     print("built", out)

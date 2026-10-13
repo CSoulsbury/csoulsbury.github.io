@@ -107,3 +107,22 @@ footer.site p { margin: 0 0 0.3rem; }
   .card dd { margin-bottom: 0.8rem; }
 }
 @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+
+/* photos */
+figure { margin: 0; }
+img { max-width: 100%; height: auto; display: block; }
+.banner { margin-top: 2.5rem; }
+.banner img { width: 100%; aspect-ratio: 1847 / 425; object-fit: cover; border-radius: 4px; }
+.photo img { width: 100%; border-radius: 4px; }
+.photo.side { float: right; width: min(40%, 15rem); margin: 0 0 1rem 1.5rem; }
+.theme::after { content: ""; display: block; clear: both; }
+.photo-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1.25rem; }
+.photo-pair img { aspect-ratio: 4 / 3; object-fit: cover; }
+.person.has-photo { overflow: hidden; }
+.portrait { float: right; width: min(38%, 11rem); margin: 0 0 0.75rem 1.25rem; }
+.portrait img { width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 4px; }
+.portrait figcaption { font-family: var(--font-mono); font-size: 0.7rem; color: var(--muted); margin-top: 0.35rem; line-height: 1.35; }
+@media (max-width: 560px) {
+  .photo.side { width: 45%; margin-left: 1rem; }
+  .photo-pair { grid-template-columns: 1fr; }
+}
