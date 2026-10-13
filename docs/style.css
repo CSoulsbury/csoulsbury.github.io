@@ -126,3 +126,6 @@ img { max-width: 100%; height: auto; display: block; }
   .photo.side { width: 45%; margin-left: 1rem; }
   .photo-pair { grid-template-columns: 1fr; }
 }
+.research .banner { margin: 1.5rem 0; }
+.research .banner img { aspect-ratio: auto; }
+.photo-pair img.contain { object-fit: contain; background: #000; }
