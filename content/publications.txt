@@ -1,0 +1,111 @@
+# One paper per line. "## YEAR" starts a year group.
+# **Name** = student author from the group (shown in bold). *text* = italics.
+
+## 2024
+**Gray, L.A.,** Varga, S. & Soulsbury, C.D. (2024) Increased UV intensity reduces pollen viability in *Brassica rapa*. *Flora*, 319, 152582.
+Soulsbury, C.D. & Iossa, G. (2024) Coevolution between eggs and sperm of insects. *Proceedings of the Royal Society B*, 291, 20240525. [link](https://doi.org/10.1098/rspb.2024.0525)
+Sheldon, E.L., Hart, C.J., Wilkinson, A., Soulsbury, C., Ratcliffe, V.F. & Mills, D.S. (2024) Working dogs in dynamic on-duty environments: The impact of dark adaptation, strobe lighting and acoustic distraction on task performance. *PLoS One*, 19, e0295429.
+Morton, F.B., Henri, D., Adaway, K.A., Soulsbury, C.D. & Hopkins, C.R. (2024) Communicating information about the psychology of a wild carnivore, the red fox, influences perceived attitudinal changes but not overall tolerance in people. *Biological Conservation*, 296, 110653.
+Sarre, S.D., Adamack, A.T., Hitchen, Y., Soulsbury, C.D., Gruber, B. & Berry, O.F. (2024) The genetic signature left by the range expansion of red foxes in Australia is detectable after more than 80 years of population stability. *Ecology and Evolution*, 14, e11212. [link](https://doi.org/10.1002/ece3.11212)
+**Wilson, B.M.,** Soulsbury, C.D. & Mills, D.S. (2024) Problem behaviours and relinquishment: challenges faced by clinical animal behaviourists when assessing fear and frustration. *Animals*, 14, 2718.
+
+## 2023
+**Williams, E.J.,** Cotter, S.C. & Soulsbury, C.D. (2023) Consumption of rodenticide baits by invertebrates as a potential route into the diet of insectivores. *Animals*, 13, 383.
+**Dobson, J.L.,** Pike, T.W., Gonzalez-Rodriguez, J. & Soulsbury, C.D. (2023) Identifying and locating carotenoids in supra-orbital combs of male black grouse (*Lyrurus tetrix*) using Raman and TEM: a histological study using re-hydrated tissue samples. *Journal of Morphology*.
+Morton, F.B., Gartner, M., Norrie, E.M., Haddou, Y., Soulsbury, C.D. & Adaway, K.A. (2023) Urban foxes are bolder but not more innovative than their rural conspecifics. *Animal Behaviour*, 203, 101–113.
+Sheldon, E.L., Hart, C.J., Mills, D.S., Soulsbury, C.D., Sumner, R. & Wilkinson, A. (2023) The impact of auditory distraction on learning and task performance in working dogs. *Applied Animal Behaviour Science*, 265, 105977.
+**Chen, R.,** Soulsbury, C.D., Lebigre, C., Ludwig, G., van Oers, K. & Hoffman, J.I. (2023) Effects of hunting on genetic diversity, inbreeding and dispersal in Finnish black grouse (*Lyrurus tetrix*). *Evolutionary Applications*, 16, 625–637.
+
+## 2022
+Soulsbury, C.D. & Humphries, S. (2022) The biophysical determinants and constraints on sperm swimming velocity. *Cells*, 11, 3360.
+**Gray, L.A.,** Varga, S. & Soulsbury, C.D. (2022) Floral UV-absorbance area responds plastically to UV irradiance in *Brassica rapa*. *Plant-Environment Interactions*. [link](https://doi.org/10.1002/pei3.10091)
+**Pulver, C.A.,** Celiker, E., Woodrow, C., Geipel, I., Soulsbury, C.D., Cullen, D.A., Rogers, S.M., Veitch, D. & Montealegre-Z, F. (2022) Ear pinnae in a neotropical katydid (Orthoptera: Tettigoniidae) function as ultrasound guides for bat detection. *eLife*, 11, e77628. [link](https://elifesciences.org/articles/77628)
+Varga, S., Soulsbury, C.D. & John, E.A. (2022) Biological Flora of Britain and Ireland: *Knautia arvensis*. *Journal of Ecology*, 110, 1970–1992.
+**Penman, Z.,** Deeming, D.C. & Soulsbury, C.D. (2022) Ecological and life-history correlates of erythrocyte size and shape in Lepidosauria. *Journal of Evolutionary Biology*, 35, 708–718. [link](https://doi.org/10.1111/jeb.14004)
+Soulsbury, C.D., **Dobson, J.,** Deeming, D.C. & Minias, P. (2022) Energetic lifestyle drives shape and size of avian erythrocytes. *Integrative and Comparative Biology*.
+
+## 2021
+**Duncan, J.,** Soulsbury, C.D. & Montealegre-Z, F. (2021) Differentiation between left and right wing stridulatory files in the field cricket *Gryllus bimaculatus* (Orthoptera: Gryllidae). *Arthropod Structure & Development*, 65, 101076.
+Caravaggi, A., Amado, T.F., Brook, R.K., Ciuti, S., Darimont, C.T., Drouilly, M., English, H.M., Field, K.A., Iossa, G., Martin, J.E., McElligott, A.G., Mohammadi, A., Nayeri, D., O’Neill, H.M.K., Paquet, P.C., Périquet, S., Proulx, G., Rabaiotti, D., Recio, M.R., Soulsbury, C.D., Tadich, T. & Wynn-Grant, R. (2021) On the need for rigorous welfare and methodological reporting for the live capture of large carnivores: a response to de Araujo et al. (2021). *Methods in Ecology and Evolution*, 12, 1793–1799.
+Jonsson, T., Montealegre-Z, F., Soulsbury, C.D. & Robert, D. (2021) Tenors not sopranos: bio-mechanical constraints on calling song frequencies in the Mediterranean field-cricket. *Frontiers in Ecology and Evolution*, 9, 647786.
+**Veitch, D.,** Celiker, E., Aldridge, S., **Pulver, C.,** Soulsbury, C.D., Jonsson, T., Woodrow, C. & Montealegre-Z, F. (2021) A narrow ear canal reduces sound velocity to create additional acoustic inputs in a microscale insect ear. *Proceedings of the National Academy of Sciences*, 118, e2017281118.
+Goddard, M.A., Davies, Z.G., Guenat, S., Ferguson, M.J., Fisher, J.C., Akanni, A., Ahjokoski, T., Anderson, P.M.L., Angeoletto, F., Antoniou, C., Bates, A.J., Barkwith, A., Berland, A., Bouch, C.J., Rega-Brodsky, C.C., Byrne, L.B., Cameron, D., Canavan, R., Chapman, T., Connop, S., Crossland, S., Dade, M.C., Dawson, D.A., Dobbs, C., Downs, C.T., Ellis, E.C., Escobedo, F.J., Gobster, P., Gulsrud, N.-M., Guneralp, B., Hahs, A.K., Hale, J.D., Hassall, C., Hedblom, M., Hochuli, D.F., Inkinen, T., Ioja, I.-C., Kendal, D., Knowland, T., Kowarik, I., Langdale, S.J., Lerman, S.B., MacGregor-Fors, I., Manning, P., Massini, P., McLean, S., Mkwambisi, D.D., Ossola, A., Luque, G.P., Pérez-Urrestarazu, L., Perini, K., Perry, G., Pett, T.J., Plummer, K.E., Radji, R.A., Roll, U., Potts, S.G., Rumble, H., Sadler, J.P., de Saille, S., Sautter, S., Scott, C.E., Shwartz, A., Smith, T., Snep, R.P.H., Soulsbury, C.D., Stanley, M.C., Van de Voorde, T., Venn, S.J., Warren, P.H., Washbourne, C.-L., Whitling, M., Williams, N.S.G., Yang, J., Yeshitela, K., Yocom, K.P. & Dallimer, M. (2021) A global horizon scan of the future impacts of robotics and autonomous systems on urban ecosystems. *Nature Ecology & Evolution*, 5, 219–230.
+Downey, H., Amano, T., Cadotte, M., Cook, C.N., Cooke, S.J., Haddaway, N.R., Jones, J.P., Littlewood, N., Walsh, J.C., Abrahams, M.I., Gilbert, A., Munemitsu, A., Alves, J.A., Antwis, R.E., Arellano, E.C., Axmacher, J., Barclay, H., Batty, L., Benítez-López, A., Bennett, J.R., Berg, M.J., Bertolino, S., Biggs, D., Bolam, F.C., Bray, T., Brook, B.W., Bull, J.W., Burivalova, Z., Cabeza, M., Chauvenet, A.L.M., Christie, A.P., Cole, L., Cotton, A.J., Cotton, S., Cousins, S.A.O., Craven, D., Cresswell, W., Cusack, J.J., Dalrymple, S.E., Davies, Z.G., Diaz, A., Dodd, J.A., Felton, A., Fleishman, E., Gardner, C.J., Garside, R., Ghoddousi, A., Gilroy, J.J., Gill, D.A., Gill, J.A., Glew, L., Grainger, M.J., Grass, A.A., Greshon, S., Gundry, J., Hart, T., Hopkins, C.R., Howe, C., Johnson, A., Jones, K.W., Jordan, N.R., Kadoya, T., Kerhoas, D., Koricheva, J., Lee, T.M., Lengyel, S., Livingstone, S.W., Lyons, A., McCabe, G., Millett, J., Strevens, C.M., Moolna, A., Mossman, H.L., Mukherjee, N., Muñoz-Sáez, A., Negrões, N., Norfolk, O., Osawa, T., Papworth, S., Park, K.J., Pellet, J., Phillott, A.D., Plotnik, J.M., Priatna, D., Ramos, A.G., Randall, N., Richards, R.M., Ritchie, E.G., Roberts, D.L., Rocha, R., Rodríguez, J.P., Sanderson, R., Sasaki, T., Savilaakso, S., Sayer, C., Sekercioglu, C., Senzaki, M., Smith, G., Smith, R.J., Soga, M., Soulsbury, C.D., Steer, M.D., Stewart, G., Strange, E.F., Suggitt, A.J., Thompson, R.R., Thompson, S., Thornhill, I., Trevelyan, R.J., Usieta, H.O., Venter, O., Webber, A.D., White, R.L., Whittingham, M.J., Wilby, A., Yarnell, R.W., Zamora, V. & Sutherland, W.J. (2021) Training future generations to deliver evidence-based conservation and ecosystem management. *Ecological Solutions and Techniques*, 2, e12032.
+**Duke, L.** & Soulsbury, C.D. (2021) Human-wildlife interaction networks at urban blue spaces. *Area*, 53, 122–133.
+
+## 2020
+**Goddard, E.L.,** Varga, S., John, E.A. & Soulsbury, C.D. (2020) Evidence for root kin recognition in the clonal plant species *Glechoma hederacea*. *Frontiers in Ecology and Evolution*, 8, 578141.
+Soulsbury, C.D., Gray, H., Smith, L., Braithwaite, V., Cotter, S., Elwood, R.E., Wilkinson, A. & Collins, L.M. (2020) The welfare and ethics of research involving wild animals: a primer. *Methods in Ecology and Evolution*, 11, 1164–1181.
+Varga, S. & Soulsbury, C.D. (2020) Environmental stressors affect sex ratios in sexually dimorphic plant sexual systems. *Plant Biology*, 22, 890–898.
+**Harris, S., Kervinen, M.,** Lebigre, C., Pike, T.W. & Soulsbury, C.D. (2020) Full spectra coloration and condition-dependent signaling in a skin-based carotenoid sexual ornament. *Behavioral Ecology*, 31, 834–843.
+Soulsbury, C.D. (2020) Temporal patterns of human-fox interactions as revealed from internet searches. *Human Dimensions of Wildlife*, 1–12.
+
+## 2019
+Soulsbury, C.D. (2019) Income and capital breeding in males: energetic and physiological limitations on male mating strategies. *Journal of Experimental Biology*, 222, jeb184895.
+Varga, S. & Soulsbury, C.D. (2019) Arbuscular mycorrhizal fungi change host plant DNA methylation systemically. *Plant Biology*, 21, 271–283.
+
+## 2018
+Soulsbury, C.D. & Halsey, L.H. (2018) Does physical activity age wild animals? *Frontiers in Ecology and Evolution*, 6, 222.
+Soulsbury, C.D. & Varga, S. (2018) Temperature-dependent visitation rates of bumblebees to different colour-morphs of *Geranium sylvaticum* (Linnaeus 1753). *Euroasian Entomological Journal*.
+Statham, M.J., Edwards, C.J., Norén, K., Soulsbury, C.D. & Sacks, B.N. (2018) Genetic analysis of European red foxes reveals multiple distinct peripheral populations and central continental admixture. *Quaternary Science Reviews*, 197, 257–266.
+**Harris, S.,** Kervinen, M., Lebigre, C., Pike, T.W. & Soulsbury, C.D. (2018) Age, condition and dominance-related sexual ornament size before and during the breeding season in the black grouse *Lyrurus tetrix*. *Journal of Avian Biology*, 49, e01648.
+Soulsbury, C.D., **Lipponen, A.,** Wood, K., Mein, C.A., Hoffman, J.I. & Lebigre, C. (2018) Age and quality-dependent DNA methylation correlate with melanin-based colouration in a wild bird. *Ecology and Evolution*, 8, 6547–6557.
+Soulsbury, C.D., Siitari, H. & Lebigre, C. (2018) Stabilising selection on immune response in male black grouse *Lyrurus tetrix*. *Oecologia*, 186, 405–414.
+Soulsbury, C.D. & Lebigre, C. (2018) Viability selection creates negative HFCs in female black grouse *Lyrurus tetrix*. *Journal of Ornithology*, 159, 93–101.
+
+## 2017
+**Chivers, B.,** Jonsson, T., Soulsbury, C.D. & Montealegre-Z, F. (2017) Structural biomechanics determine spectral tonality of bush-cricket calls. *Biology Letters*, 13, 20170573.
+Montealegre-Z, F., **Ogden, J.,** Jonsson, T. & Soulsbury, C.D. (2017) Morphological determinants of carrier frequency signal in katydids (Orthoptera): a comparative analysis using biophysical evidence of wing vibration. *Journal of Evolutionary Biology*, 30, 2068–2078.
+Varga, S. & Soulsbury, C.D. (2017) Paternal arbuscular mycorrhizal fungal status affects DNA methylation in seeds. *Biology Letters*, 13, 20170407.
+**Sarria-S, F.A., Chivers, B.D.,** Soulsbury, C.D. & Montealegre-Z, F. (2017) Non-invasive biophysical measurement of travelling waves in the insect inner ear. *Royal Society Open Science*, 4, 170171.
+Varga, S. & Soulsbury, C.D. (2017) Sexually-trimorphic interactions with colour polymorphism determine nectar quality in a herbaceous perennial. *Scientific Reports*, 7, 45838.
+Fawcett, J., Fawcett, J. & Soulsbury, C.D. (2017) Seasonal and sex-specific differences in feeding site attendance by red foxes *Vulpes vulpes*. *Mammal Study*, 42, 17–120.
+
+## 2016
+Jonsson, T., Montealegre-Z, F., Soulsbury, C.D., Robson Brown, K.A. & Robert, D. (2016) Auditory mechanics in a bush-cricket: direct evidence of dual sound inputs in the pressure difference receiver. *Journal of the Royal Society Interface*, 13, 20160560.
+**Nieminen, E., Kervinen, M.,** Lebigre, C. & Soulsbury, C.D. (2016) Flexible timing of reproductive effort as an alternative mating tactic in black grouse (*Lyrurus tetrix*) males. *Behaviour*, 153, 927–946.
+Lebigre, C., Timmermans, C. & Soulsbury, C.D. (2016) No behavioural response to kin competition in a lekking bird. *Behavioral Ecology and Sociobiology*, 70, 1457.
+Soulsbury, C.D., **Kervinen, M.** & Lebigre, C. (2016) Curse of the black spot: melanin spotting negatively correlated with fitness in black grouse *Lyrurus tetrix*. *Behavioral Ecology*, 27, 1362–1369.
+**Kervinen, M.,** Lebigre, C. & Soulsbury, C.D. (2016) Simultaneous age-dependent and age-independent sexual selection in the lekking black grouse (*Lyrurus tetrix*). *Journal of Animal Ecology*, 85, 715–725.
+
+## 2015
+Siitari, H., Alatalo, R., Pihlaja, M., Hämäläinen, J., Blount, J.D., Groothuis, T.G., Hytönen, V.P., Surai, P. & Soulsbury, C.D. (2015) Food supplementation reveals constraints and adaptability of egg quality in the magpie *Pica pica*. *Avian Biology Research*, 8, 244–253.
+Soulsbury, C.D. & White, P.C.L. (2015) Human-wildlife interactions in urban areas: a review of conflicts, benefits and opportunities. *Wildlife Research*, 42, 541–553.
+Soulsbury, C.D. & Fawcett, J.K. (2015) Ontogenic patterns of scent marking in red foxes, *Vulpes vulpes* (Carnivora: Canidae). *Folia Zoologica*, 64, 40–44.
+**Gardner, C.J.,** Deeming, D.C., Wellby, I., Soulsbury, C.D. & Eady, P.E. (2015) Effects of surgically implanted tags and translocation on the movements of common bream *Abramis brama* (L.). *Fisheries Research*, 167, 252–259.
+**Kervinen, M.,** Lebigre, C., Alatalo, R.V., Siitari, H. & Soulsbury, C.D. (2015) Life history differences in age-dependent expression of multiple ornaments and behaviors in a lekking bird. *American Naturalist*, 185, 13–27.
+
+## 2007–2014
+Lebigre, C., Alatalo, R.V., Soulsbury, C.D., Höglund, J. & Siitari, H. (2014) Limited indirect fitness benefits of male group membership in a lekking species. *Molecular Ecology*, 23, 5356–5365.
+**Devenish-Nelson, E.S.,** Richards, S.A., Harris, S., Soulsbury, C.D. & Stephens, P.A. (2014) Demonstrating frequency-dependent transmission in red foxes. *Biology Letters*, 10, 20140524.
+Statham, M.J., Murdoch, J., Janecka, J., Aubry, K.B., Edwards, C.J., Soulsbury, C.D., Berry, O., Wang, Z., Harrison, D., Pearch, M., Tomsett, L., Chupasko, J. & Sacks, B.N. (2014) Range-wide multilocus phylogeography of the red fox reveals ancient continental divergence, minimal genomic exchange and distinct demographic histories. *Molecular Ecology*, 23, 4813–483.
+**Rokka, K.,** Pihlaja, M., Siitari, H. & Soulsbury, C.D. (2014) Sex-specific differences in offspring personalities across the laying order in magpies *Pica pica*. *Behavioural Processes*, 107, 79–87.
+Klemme, I., Soulsbury, C.D. & Henttonen, H. (2014) Contrasting effects of large density changes on relative testes size in fluctuating populations of sympatric vole species. *Proceedings of the Royal Society B*, 281, 20141291.
+Soulsbury, C.D., **Kervinen, M.** & Lebigre, C. (2014) Sexual dimorphism and the strength of sexual selection in birds and mammals. *Evolutionary Ecology Research*, 16, 63–76.
+**Devenish-Nelson, E.S.,** Stephens, P.A., Harris, S., Soulsbury, C.D. & Richards, S.A. (2013) Does litter size variation affect models of terrestrial carnivore extinction risk and management? *PLoS One*, 8, e58060.
+**Devenish-Nelson, E.S.,** Harris, S., Soulsbury, C.D., Richards, S.A. & Stephens, P.A. (2013) Demography of a carnivore, the red fox, *Vulpes vulpes*: what have we learnt from 70 years of published studies? *Oikos*, 122, 705–716.
+Fawcett, J., Fawcett, J. & Soulsbury, C.D. (2013) Seasonal and sex differences in urine marking rates of wild red foxes *Vulpes vulpes*. *Journal of Ethology*, 31, 41–47.
+Edwards, C.J., Soulsbury, C.D., Statham, M.J., Ho, S.Y., Wall, D., Dolf, G., Iossa, G., Baker, P.J., Harris, S., Sacks, B. & Bradley, D.G. (2012) Temporal genetic variation of the red fox, *Vulpes vulpes*, across western Europe and the British Isles. *Quaternary Science Reviews*, 57, 95–104.
+**Kervinen, M.,** Alatalo, R.V., Lebigre, C., Siitari, H. & Soulsbury, C.D. (2012) Determinants of yearling male lekking effort and reproductive success in black grouse *Tetrao tetrix*. *Behavioral Ecology*, 23, 1207–1217.
+**Hämäläinen, A.,** Alatalo, R.V., Lebigre, C., Siitari, H. & Soulsbury, C.D. (2012) Fighting behaviour as a predictor of male mating success in black grouse *Tetrao tetrix*. *Behavioral Ecology and Sociobiology*, 66, 1577–1586.
+Soulsbury, C.D., Alatalo, R.V., Lebigre, C. & Siitari, H. (2012) Restrictive mate choice criteria causes age-specific inbreeding in female black grouse *Tetrao tetrix*. *Animal Behaviour*, 83, 1497–1503.
+Oksanen, T., Koivula, M., Koskela, E., Mappes, T. & Soulsbury, C.D. (2012) Interactive effects of past and present environments on overwintering success – a reciprocal transplant experiment. *Ecology and Evolution*, 2, 899–907.
+Soulsbury, C.D., Alatalo, R.V., Lebigre, C., **Rokka, K.** & Siitari, H. (2011) Age-dependent inbreeding and offspring fitness costs in female black grouse. *Biology Letters*, 7, 853–855.
+Soulsbury, C.D., Iossa, G., Baker, P.J., White, P.C.L. & Harris, S. (2011) A behavioural and spatial analysis of extraterritorial movements in red foxes (*Vulpes vulpes*). *Journal of Mammalogy*, 92, 190–199.
+**Whiteside, H.M.,** Dawson, D.A., Soulsbury, C.D. & Harris, S. (2011) Mother knows best: dominant females determine offspring dispersal in red foxes (*Vulpes vulpes*). *PLoS One*, 6, e22145.
+**Arnold, J.,** Soulsbury, C.D. & Harris, S. (2011) Spatial and behavioral changes by red foxes (*Vulpes vulpes* L., 1758) in response to artificial territory intrusion. *Canadian Journal of Zoology*, 89, 808–815.
+Soulsbury, C.D. (2010) Ovulation mode modifies paternity monopolisation in mammals. *Biology Letters*, 6, 39–41.
+Soulsbury, C.D. (2010) Genetic patterns of paternity and testes size in mammals. *PLoS One*, 5, e9581.
+Soulsbury, C.D. & Iossa, G. (2010) The impact of ovulation mode on sperm quantity and quality in mammals. *Evolutionary Ecology*, 24, 879–889.
+**Devenish-Nelson, E.S.,** Harris, S., Soulsbury, C.D. & Dawson, D.A. (2010) Uncertainty in population growth rates: determining confidence intervals from point estimates of parameters. *PLoS One*, 5, e13628.
+Iossa, G., Soulsbury, C.D., Baker, P.J., Edwards, K.J. & Harris, S. (2009) Changes in mating system and group structure associated with a decline in population density in the facultatively social red fox *Vulpes vulpes*. *Behavioral Ecology*, 20, 385–395.
+Soulsbury, C.D., Iossa, G. & Edwards, K.J. (2009) The influence of evolutionary distance between cross-species microsatellites and primer base-pair composition on allelic dropout rates. *Conservation Genetics*, 10, 797–802.
+Soulsbury, C.D., Iossa, G., Kennel, S. & Harris, S. (2009) The welfare and suitability of primates kept as pets. *Journal of Applied Animal Welfare Science*, 12, 1–20.
+Iossa, G., Soulsbury, C.D. & Harris, S. (2009) A review of wild animals in circuses. *Animal Welfare*, 18, 129–140.
+Soulsbury, C.D., Iossa, G., Baker, P.J. & Harris, S. (2008) Environmental variation at the onset of independent foraging affects full-grown body mass in the red fox. *Proceedings of the Royal Society B*, 275, 2411–2418.
+Soulsbury, C.D., Baker, P.J., Iossa, G. & Harris, S. (2008) Fitness costs of dispersal in red foxes (*Vulpes vulpes*). *Behavioral Ecology and Sociobiology*, 62, 1289–1298.
+Iossa, G., Soulsbury, C.D., Baker, P.J. & Harris, S. (2008) Body mass, territory size and life-history tactics in a socially monogamous canid. *Journal of Mammalogy*, 89, 1481–1490.
+Iossa, G., Soulsbury, C.D., Baker, P.J. & Harris, S. (2008) Sperm competition and the evolution of testes size in terrestrial mammalian carnivores. *Functional Ecology*, 22, 655–662.
+Soulsbury, C.D., Iossa, G., Edwards, K.J., Baker, P.J. & Harris, S. (2007) Allelic dropout from a high-quality DNA source. *Conservation Genetics*, 8, 733–738.
+Soulsbury, C.D., Iossa, G., Baker, P.J., Cole, N.C., Funk, S.M. & Harris, S. (2007) The impact of sarcoptic mange *Sarcoptes scabiei* on the British fox *Vulpes vulpes* population. *Mammal Review*, 37, 278–296.
+Iossa, G., Soulsbury, C.D. & Harris, S. (2007) Mammal trapping: a review of animal welfare standards of killing and restraining traps. *Animal Welfare*, 16, 335.

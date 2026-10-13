@@ -1,0 +1,29 @@
+{
+  "current": [
+    {"name": "Prof. Carl Soulsbury", "role": "Professor of Animal Ecology · Group leader",
+     "text": "My main interest is the evolution of life history strategies. My work focuses mainly on the behavioural and evolutionary ecology of vertebrates, but has expanded to include plant and insect life histories.\n\nI did my undergraduate degree at the University of Aberdeen, where I was awarded the Nicol Prize for the top zoology graduate. I then did a PhD on red fox *Vulpes vulpes* dispersal at the University of Bristol, supervised by Prof. Stephen Harris and Dr Phil Baker, followed by a postdoc on black grouse behavioural ecology at the University of Jyväskylä. I am now Professor of Animal Ecology at the University of Lincoln.",
+     "links": [["ORCID", "https://orcid.org/0000-0001-8808-5210"], ["Google Scholar", "https://scholar.google.com/citations?user=4IAXZDEAAAAJ"], ["Bluesky", "https://bsky.app/profile/cds-york.bsky.social"]]},
+    {"name": "Georgia Freer", "role": "PhD · from November 2024", "text": "Georgia is doing her PhD with Blake Morton, Simon Clegg and me on the welfare of urban animals, focusing on parasites and pathogens."},
+    {"name": "Sophie Ackhurst", "role": "Masters · from October 2024", "text": "Sophie's project looks at the biomechanics of ageing sperm and how this may relate to cryptic female choice."},
+    {"name": "Jess Frith", "role": "HFSP project", "text": "Jess works on our HFSP-funded project on the evolution of sperm morphology in insects. She previously did a BSc in Bioveterinary Science at the University of Lincoln."},
+    {"name": "Rebecca Chen", "role": "PhD · Hoffman lab, Bielefeld", "text": "Rebecca uses state-of-the-art sequencing to unravel the genetic architecture of multiple sexually selected traits in the lekking black grouse *Lyrurus tetrix*. She also explores inbreeding depression in sexual trait expression and the role of DNA methylation as a link between the two, combining our long-term dataset with new molecular techniques. Co-supervised with Joe Hoffman and Kees van Oers.",
+     "links": [["Hoffman lab", "https://thehoffmanlab.com"]]},
+    {"name": "Ruben Culqui Salazar", "role": "PhD", "text": "Ruben is passionate about amphibians, particularly caecilians. His PhD looks at caecilian distribution and ecology in Ecuador."},
+    {"name": "Himara Van Haevermaet", "role": "PhD (part-time)", "text": "Himara's PhD with Prof. Daniel Mills looks at dog aggression and the signals used by aggressive dogs."},
+    {"name": "Beverley Wilson", "role": "PhD", "text": "Bev's PhD with Prof. Daniel Mills is on fear and frustration in dogs."},
+    {"name": "Hafiza Maira Munir", "role": "PhD", "text": "Maira's project is on lesser wax moths. More details coming soon."}
+  ],
+  "former": [
+    {"name": "Libbi Gray", "role": "MSc by Research", "text": "Libbi studied floral phenotypes and how they may be affected by changes in UV-B radiation, using herbarium specimens and greenhouse and growth-chamber experiments. She went on to a PhD at the University of Edinburgh."},
+    {"name": "Jess Dobson", "role": "MSc by Research", "text": "Jess studied the quality of sexual signals in male black grouse: carotenoid pigments in the red eye combs (HPLC and microtomy), and how feather structure influences colour. She is now doing a PhD with Prof. Matthew Shawkey at Ghent University."},
+    {"name": "Dr Matti Kervinen", "role": "PhD, 2010–2014", "text": "Matti studied the ecological factors affecting lifetime fitness of black grouse males, separating what contributes most to variation in reproductive success and survival at different ages. He now works for the Finnish Wildlife Agency (Riistakeskus)."},
+    {"name": "Dr Ben Chivers", "role": "PhD", "text": "Ben completed a PhD with Prof. Fernando Montealegre-Z, using µ-scanning laser Doppler vibrometry in a large comparative study of stridulation and wing mechanics across katydid species."},
+    {"name": "Sarah Harris", "role": "MSc by Research, 2016", "text": "Sarah studied the red eye combs of black grouse and how they relate to female mate choice, heritability and individual scheduling of growth. She went on to work as a research assistant on the PEARL project."},
+    {"name": "Christian Pulver", "role": "Postgraduate", "text": "Christian measured the mechanical contribution of the multiple acoustic ports to a single katydid ear, using three laser systems and several species with different ear morphology."},
+    {"name": "Dan Veitch", "role": "MSc by Research", "text": "Dan worked with Fernando Montealegre-Z on how sound velocity is reduced in the acoustic trachea of bush-crickets, using *Copiphora gorgonensis* as a model."},
+    {"name": "Ed Woodrow", "role": "MSc by Research", "text": "Ed studied changes in deer damage in the Bardney Limewoods, combining historical records and surveys."},
+    {"name": "Ellie Smith", "role": "MSc by Research", "text": "Ellie studied harvest mouse ecology and distribution, assessing the state of populations and extrapolating across the UK."},
+    {"name": "Eini Nieminen", "role": "Masters", "text": "Eini studied temporal scheduling of male lekking effort in black grouse, finding that young males increased effort as older males spent less time on the lek. She went on to a PhD at the University of Jyväskylä."},
+    {"name": "Anssi Lipponen", "role": "BSc, MSc, technician", "text": "Anssi joined the black grouse project as a trainee in 2005, did his BSc on magpie microsatellites, worked as a laboratory technician, and completed an MSc developing a nested qPCR method for blood parasite loads in black grouse. He went on to a PhD at the University of Eastern Finland."}
+  ]
+}
