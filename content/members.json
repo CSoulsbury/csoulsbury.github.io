@@ -29,7 +29,8 @@
     {
       "name": "Georgia Freer",
       "role": "PhD · from November 2024",
-      "text": "Georgia is doing her PhD with Blake Morton, Simon Clegg and me on the welfare of urban animals, focusing on parasites and pathogens."
+      "text": "Georgia is doing her PhD with Blake Morton, Simon Clegg and me on the welfare of urban animals, focusing on parasites and pathogens.",
+      "photo": "georgia-freer.jpg"
     },
     {
       "name": "Sophie Ackhurst",
@@ -39,7 +40,8 @@
     {
       "name": "Jess Frith",
       "role": "HFSP project",
-      "text": "Jess works on our HFSP-funded project on the evolution of sperm morphology in insects. She previously did a BSc in Bioveterinary Science at the University of Lincoln."
+      "text": "Jess works on our HFSP-funded project on the evolution of sperm morphology in insects. She previously did a BSc in Bioveterinary Science at the University of Lincoln.",
+      "photo": "jess-frith.jpg"
     },
     {
       "name": "Himara Van Haevermaet",
@@ -71,17 +73,20 @@
     {
       "name": "Libbi Gray",
       "role": "MSc by Research",
-      "text": "Libbi studied floral phenotypes and how they may be affected by changes in UV-B radiation, using herbarium specimens and greenhouse and growth-chamber experiments. She went on to a PhD at the University of Edinburgh."
+      "text": "Libbi studied floral phenotypes and how they may be affected by changes in UV-B radiation, using herbarium specimens and greenhouse and growth-chamber experiments. She went on to a PhD at the University of Edinburgh.",
+      "photo": "libbi-gray.jpg"
     },
     {
       "name": "Jess Dobson",
       "role": "MSc by Research",
-      "text": "Jess studied the quality of sexual signals in male black grouse: carotenoid pigments in the red eye combs (HPLC and microtomy), and how feather structure influences colour. She is now doing a PhD with Prof. Matthew Shawkey at Ghent University."
+      "text": "Jess studied the quality of sexual signals in male black grouse: carotenoid pigments in the red eye combs (HPLC and microtomy), and how feather structure influences colour. She is now doing a PhD with Prof. Matthew Shawkey at Ghent University.",
+      "photo": "jess-dobson.jpg"
     },
     {
       "name": "Dr Matti Kervinen",
       "role": "PhD, 2010–2014",
-      "text": "Matti studied the ecological factors affecting lifetime fitness of black grouse males, separating what contributes most to variation in reproductive success and survival at different ages. He now works for the Finnish Wildlife Agency (Riistakeskus)."
+      "text": "Matti studied the ecological factors affecting lifetime fitness of black grouse males, separating what contributes most to variation in reproductive success and survival at different ages. He now works for the Finnish Wildlife Agency (Riistakeskus).",
+      "photo": "matti-kervinen.jpg"
     },
     {
       "name": "Dr Ben Chivers",
@@ -91,7 +96,8 @@
     {
       "name": "Sarah Harris",
       "role": "MSc by Research, 2016",
-      "text": "Sarah studied the red eye combs of black grouse and how they relate to female mate choice, heritability and individual scheduling of growth. She went on to work as a research assistant on the PEARL project."
+      "text": "Sarah studied the red eye combs of black grouse and how they relate to female mate choice, heritability and individual scheduling of growth. She went on to work as a research assistant on the PEARL project.",
+      "photo": "sarah-harris.jpg"
     },
     {
       "name": "Christian Pulver",
@@ -101,17 +107,21 @@
     {
       "name": "Dan Veitch",
       "role": "MSc by Research",
-      "text": "Dan worked with Fernando Montealegre-Z on how sound velocity is reduced in the acoustic trachea of bush-crickets, using *Copiphora gorgonensis* as a model."
+      "text": "Dan worked with Fernando Montealegre-Z on how sound velocity is reduced in the acoustic trachea of bush-crickets, using *Copiphora gorgonensis* as a model.",
+      "photo": "dan-veitch.jpg",
+      "caption": "Dan with a giant worm in the field"
     },
     {
       "name": "Ed Woodrow",
       "role": "MSc by Research",
-      "text": "Ed studied changes in deer damage in the Bardney Limewoods, combining historical records and surveys."
+      "text": "Ed studied changes in deer damage in the Bardney Limewoods, combining historical records and surveys.",
+      "photo": "ed-woodrow.jpg"
     },
     {
       "name": "Ellie Smith",
       "role": "MSc by Research",
-      "text": "Ellie studied harvest mouse ecology and distribution, assessing the state of populations and extrapolating across the UK."
+      "text": "Ellie studied harvest mouse ecology and distribution, assessing the state of populations and extrapolating across the UK.",
+      "photo": "ellie-smith.jpg"
     },
     {
       "name": "Eini Nieminen",
@@ -121,7 +131,8 @@
     {
       "name": "Anssi Lipponen",
       "role": "BSc, MSc, technician",
-      "text": "Anssi joined the black grouse project as a trainee in 2005, did his BSc on magpie microsatellites, worked as a laboratory technician, and completed an MSc developing a nested qPCR method for blood parasite loads in black grouse. He went on to a PhD at the University of Eastern Finland."
+      "text": "Anssi joined the black grouse project as a trainee in 2005, did his BSc on magpie microsatellites, worked as a laboratory technician, and completed an MSc developing a nested qPCR method for blood parasite loads in black grouse. He went on to a PhD at the University of Eastern Finland.",
+      "photo": "anssi-lipponen.jpg"
     }
   ]
 }
