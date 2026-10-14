@@ -1,6 +1,15 @@
 # One paper per line. "## YEAR" starts a year group.
 # **Name** = student author from the group (shown in bold). *text* = italics.
 
+## 2026
+**Wilson, B.M.,** Soulsbury, C.D. & Mills, D.S. (2026) Development of a psychobiological nosology for fear and frustration in clinical animal behavior using dogs as a model species. *Frontiers in Psychology*, 17, 1888439. [link](https://doi.org/10.3389/fpsyg.2026.1888439)
+Iossa, G., Contador, T., Drinkwater, E., Meyer, J., Nguta, J.M., Qiao, H., Robinson, E.J.H., Rozzi, R., Sneddon, L.U., Soulsbury, C.D., Sun, B. & Ellison, A.M. (2026) Editorial on animal and plant ethics in research. *Methods in Ecology and Evolution*. [link](https://doi.org/10.1111/2041-210x.70290)
+
+## 2025
+Holmes, L.B., Soulsbury, C.D. & Montealegre-Z, F. (2025) The effects of diet on the expression of male dimorphic colouration and weaponry in a species of neotropical katydid. *Ecology and Evolution*, 15, e72630. [link](https://doi.org/10.1002/ece3.72630)
+**Chen, R.,** Soulsbury, C.D., van Oers, K. & Hoffman, J.I. (2025) Early-life viability selection targets deleterious mutations in exons. *Current Biology*, 35, 5908–5914. [link](https://doi.org/10.1016/j.cub.2025.10.043)
+**Chen, R.,** Soulsbury, C.D., Hench, K., van Oers, K. & Hoffman, J.I. (2025) Predicted deleterious mutations reveal the genetic architecture of male reproductive success in a lekking bird. *Nature Ecology & Evolution*, 9, 1924–1937. [link](https://doi.org/10.1038/s41559-025-02802-8)
+
 ## 2024
 **Gray, L.A.,** Varga, S. & Soulsbury, C.D. (2024) Increased UV intensity reduces pollen viability in *Brassica rapa*. *Flora*, 319, 152582.
 Soulsbury, C.D. & Iossa, G. (2024) Coevolution between eggs and sperm of insects. *Proceedings of the Royal Society B*, 291, 20240525. [link](https://doi.org/10.1098/rspb.2024.0525)
