@@ -43,15 +43,17 @@ def page(fname, title, body, *, full=True):
     nav = "".join(
         f'<a href="{h}"{" aria-current=\"page\"" if h == fname else ""}>{n}</a>' for h, n in NAV)
     head = f"""<title>{title}</title>
-<meta name="description" content="Research group of Prof. Carl Soulsbury, University of Lincoln: evolution of life history strategies in animals and plants.">
+<meta name="description" content="Research group of Prof. Carl Soulsbury, School of Natural Sciences, University of Lincoln: evolution of life history strategies in animals and plants.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Schibsted+Grotesk:wght@500;700;800&family=IBM+Plex+Mono:wght@500&display=swap">
 <link rel="stylesheet" href="style.css">"""
+    home = fname == "index.html"
     shell = f"""<header class="site">
-  <a class="brand" href="index.html"><span class="brand-main">Life History Research</span><span class="brand-sub">Soulsbury Lab · University of Lincoln</span></a>
-  <nav>{nav}</nav>
+  <a class="brand" href="index.html">Life History Research</a>
+  <nav aria-label="Main">{nav}</nav>
 </header>
+<figure class="fullbanner{' fullbanner-home' if home else ''}"><img src="img/study-species.jpg" alt="Cranesbill flowers, a male black grouse with red eye combs, and a magpie on a branch" width="900" height="372"></figure>
 <main>
 {body}
 </main>
@@ -79,8 +81,7 @@ def home():
     items = "\n".join(
         f'<li><time>{html.escape(n["date"])}</time><div class="news-body">{paras(n["text"])}</div></li>'
         for n in news)
-    return f"""<figure class="banner hero"><img src="img/study-species.jpg" alt="Cranesbill flowers, a male black grouse with red eye combs, and a magpie on a branch" width="900" height="372"></figure>
-<section class="intro">
+    return f"""<section class="intro">
   <p class="eyebrow">School of Natural Sciences · University of Lincoln</p>
   <h1>How organisms grow, breed, age and die, and why it differs between them</h1>
   <p class="lede">Welcome to the research home page of Prof. Carl Soulsbury. My group studies the evolution of life history strategies in animals and plants, with field sites in Britain and abroad. If you are interested in joining, <a href="contact.html">get in contact</a>.</p>
