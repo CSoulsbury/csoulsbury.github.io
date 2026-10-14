@@ -6,7 +6,7 @@ import html, re, pathlib, json, sys
 
 ROOT = pathlib.Path(__file__).parent
 OUT = ROOT / "docs"
-CONTACT_EMAIL = ""  # TODO: add your email address here
+CONTACT_EMAIL = "csoulsbury@lincoln.ac.uk"
 
 def inline(md):
     """Tiny markdown: **bold**, *italic*, [text](url)."""
