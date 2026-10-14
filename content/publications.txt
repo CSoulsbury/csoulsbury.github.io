@@ -2,10 +2,13 @@
 # **Name** = student author from the group (shown in bold). *text* = italics.
 
 ## 2026
+Morton, F.B., Thompson-Jones, D., Adaway, K.A., Sutter, K.M., Matos, C., **Freer, G.B.,** Fletcher, G.A.A. & Soulsbury, C.D. (2026) Time in the city: long-term urban exposure predicts greater exploration and problem solving in wild red foxes. *Animal Behaviour*, 238, 123644. [link](https://doi.org/10.1016/j.anbehav.2026.123644)
+Adaway, K.A., Hopkins, C.R., Soulsbury, C.D. & Morton, F.B. (2026) Spatial factors predict variation in reports of human-wildlife interactions but not public attitudes towards a widespread urban carnivore, the red fox. *Biological Conservation*, 317, 111820. [link](https://doi.org/10.1016/j.biocon.2026.111820)
 **Wilson, B.M.,** Soulsbury, C.D. & Mills, D.S. (2026) Development of a psychobiological nosology for fear and frustration in clinical animal behavior using dogs as a model species. *Frontiers in Psychology*, 17, 1888439. [link](https://doi.org/10.3389/fpsyg.2026.1888439)
 Iossa, G., Contador, T., Drinkwater, E., Meyer, J., Nguta, J.M., Qiao, H., Robinson, E.J.H., Rozzi, R., Sneddon, L.U., Soulsbury, C.D., Sun, B. & Ellison, A.M. (2026) Editorial on animal and plant ethics in research. *Methods in Ecology and Evolution*. [link](https://doi.org/10.1111/2041-210x.70290)
 
 ## 2025
+Morton, F.B. & Soulsbury, C.D. (2025) Experiencing the wild: red fox encounters are related to stronger nature connectedness, not anxiety, in people. *Human Dimensions of Wildlife*. [link](https://doi.org/10.1080/10871209.2025.2561719)
 Holmes, L.B., Soulsbury, C.D. & Montealegre-Z, F. (2025) The effects of diet on the expression of male dimorphic colouration and weaponry in a species of neotropical katydid. *Ecology and Evolution*, 15, e72630. [link](https://doi.org/10.1002/ece3.72630)
 **Chen, R.,** Soulsbury, C.D., van Oers, K. & Hoffman, J.I. (2025) Early-life viability selection targets deleterious mutations in exons. *Current Biology*, 35, 5908–5914. [link](https://doi.org/10.1016/j.cub.2025.10.043)
 **Chen, R.,** Soulsbury, C.D., Hench, K., van Oers, K. & Hoffman, J.I. (2025) Predicted deleterious mutations reveal the genetic architecture of male reproductive success in a lekking bird. *Nature Ecology & Evolution*, 9, 1924–1937. [link](https://doi.org/10.1038/s41559-025-02802-8)
