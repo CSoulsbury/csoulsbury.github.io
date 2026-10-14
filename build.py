@@ -79,7 +79,8 @@ def home():
     items = "\n".join(
         f'<li><time>{html.escape(n["date"])}</time><div class="news-body">{paras(n["text"])}</div></li>'
         for n in news)
-    return f"""<section class="intro">
+    return f"""<figure class="banner hero"><img src="img/cloud-forest.jpg" alt="Cloud forest at dawn, seen from a field station veranda" width="1847" height="425"></figure>
+<section class="intro">
   <p class="eyebrow">School of Natural Sciences · University of Lincoln</p>
   <h1>How organisms grow, breed, age and die, and why it differs between them</h1>
   <p class="lede">Welcome to the research home page of Prof. Carl Soulsbury. My group studies the evolution of life history strategies in animals and plants, with field sites in Britain and abroad. If you are interested in joining, <a href="contact.html">get in contact</a>.</p>
@@ -88,7 +89,6 @@ def home():
     <li>Katydids &amp; crickets</li><li>Insect sperm</li><li>Plant–pollinator interactions</li><li>Urban wildlife</li>
   </ul>
 </section>
-<figure class="banner"><img src="img/cloud-forest.jpg" alt="Cloud forest at dawn, seen from a field station veranda" width="1847" height="425"></figure>
 <section class="news" aria-labelledby="news-h">
   <h2 id="news-h">Latest news</h2>
   <ol class="news-list">
