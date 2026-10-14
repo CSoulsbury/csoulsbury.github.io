@@ -56,7 +56,7 @@ def page(fname, title, body, *, full=True):
 {body}
 </main>
 <footer class="site">
-  <p>Prof. Carl Soulsbury · School of Life Sciences, University of Lincoln</p>
+  <p>Prof. Carl Soulsbury · School of Natural Sciences, University of Lincoln</p>
   <p><a href="https://orcid.org/0000-0001-8808-5210">ORCID</a> · <a href="https://scholar.google.com/citations?user=4IAXZDEAAAAJ">Google Scholar</a> · <a href="https://bsky.app/profile/cds-york.bsky.social">Bluesky</a></p>
 </footer>"""
     if not full:  # artifact preview: the host adds the document skeleton
@@ -80,7 +80,7 @@ def home():
         f'<li><time>{html.escape(n["date"])}</time><div class="news-body">{paras(n["text"])}</div></li>'
         for n in news)
     return f"""<section class="intro">
-  <p class="eyebrow">School of Life Sciences · University of Lincoln</p>
+  <p class="eyebrow">School of Natural Sciences · University of Lincoln</p>
   <h1>How organisms grow, breed, age and die, and why it differs between them</h1>
   <p class="lede">Welcome to the research home page of Prof. Carl Soulsbury. My group studies the evolution of life history strategies in animals and plants, with field sites in Britain and abroad. If you are interested in joining, <a href="contact.html">get in contact</a>.</p>
   <ul class="systems">
@@ -150,7 +150,7 @@ def contact():
   <p>If your interests align with the group's current research, I'm happy to help develop an application. If you're unsure, just ask: my research interests are broad.</p>
   <dl class="card">
     <dt>Email</dt><dd class="sel">{CONTACT_EMAIL or '<span class="todo">Email address to be added</span>'}</dd>
-    <dt>Address</dt><dd>School of Life Sciences, University of Lincoln, Brayford Pool, Lincoln LN6 7TS, UK</dd>
+    <dt>Address</dt><dd>School of Natural Sciences, University of Lincoln, Brayford Pool, Lincoln LN6 7TS, UK</dd>
     <dt>Elsewhere</dt><dd><a href="https://orcid.org/0000-0001-8808-5210">ORCID 0000-0001-8808-5210</a><br><a href="https://scholar.google.com/citations?user=4IAXZDEAAAAJ">Google Scholar</a><br><a href="https://bsky.app/profile/cds-york.bsky.social">Bluesky @cds-york.bsky.social</a></dd>
   </dl>
 </section>"""
