@@ -131,3 +131,5 @@ img { max-width: 100%; height: auto; display: block; }
 .research .banner img { aspect-ratio: auto; }
 .photo-pair img.contain { object-fit: contain; background: #000; }
 .banner.hero { margin: 0 0 2rem; }
+.contact-photo { margin: 1.75rem 0 2rem; }
+.contact-photo img { width: 100%; border-radius: 6px; }
