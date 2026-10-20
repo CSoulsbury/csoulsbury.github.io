@@ -2,6 +2,7 @@
 # **Name** = student author from the group (shown in bold). *text* = italics.
 
 ## 2026
+**Van Haevermaet, H.,** Soulsbury, C.D. & Mills, D.S. (2026) Reactive and risky: the behavioural structuring of ‘dog reactive dogs’. *Applied Animal Behaviour Science*, 106961. [link](https://doi.org/10.1016/j.applanim.2026.106961)
 Morton, F.B., Thompson-Jones, D., Adaway, K.A., Sutter, K.M., Matos, C., **Freer, G.B.,** Fletcher, G.A.A. & Soulsbury, C.D. (2026) Time in the city: long-term urban exposure predicts greater exploration and problem solving in wild red foxes. *Animal Behaviour*, 238, 123644. [link](https://doi.org/10.1016/j.anbehav.2026.123644)
 Adaway, K.A., Hopkins, C.R., Soulsbury, C.D. & Morton, F.B. (2026) Spatial factors predict variation in reports of human-wildlife interactions but not public attitudes towards a widespread urban carnivore, the red fox. *Biological Conservation*, 317, 111820. [link](https://doi.org/10.1016/j.biocon.2026.111820)
 **Wilson, B.M.,** Soulsbury, C.D. & Mills, D.S. (2026) Development of a psychobiological nosology for fear and frustration in clinical animal behavior using dogs as a model species. *Frontiers in Psychology*, 17, 1888439. [link](https://doi.org/10.3389/fpsyg.2026.1888439)
